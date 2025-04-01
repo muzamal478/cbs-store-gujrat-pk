@@ -27,7 +27,10 @@ We’ve improved our website to better serve our customers. Here’s a look at t
 ## Installation
 To run this project locally:
 Clone the repository:
-git clone https://github.com/muzamal478/cbs-store-gujrat-pk.git
+git clone 
+```
+https://github.com/muzamal478/cbs-store-gujrat-pk.git
+```
 
 ## Deployment
 This site is live at [cbsstoregujratpk.wordpress.com](https://cbsstoregujratpk.wordpress.com/).
