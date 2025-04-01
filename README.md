@@ -17,7 +17,7 @@ This repository contains the source files and documentation for the CBS Store Gu
 We’ve improved our website to better serve our customers. Here’s a look at the transformation:
 
 ### Before
-![Before Update](images/after/home.jpeg)
+![Before Update](images/before/home.jpeg)
 *The original design lacked modern appeal and functionality.*
 
 ### After
