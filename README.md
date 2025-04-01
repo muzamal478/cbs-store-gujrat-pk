@@ -17,11 +17,11 @@ This repository contains the source files and documentation for the CBS Store Gu
 We’ve improved our website to better serve our customers. Here’s a look at the transformation:
 
 ### Before
-![Before Update](images/before.jpg)
+![Before Update](images/after/home.jpeg)
 *The original design lacked modern appeal and functionality.*
 
 ### After
-![After Update](images/after.jpg)
+![After Update](images/after/CBS-Store-Gujrat-PK.png)
 *The updated design is vibrant, user-friendly, and reflects our brand.*
 
 ## Installation
